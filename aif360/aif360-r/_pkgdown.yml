@@ -1,0 +1,6 @@
+url: https://milevavantuyl.github.io/AIF360/
+template:
+  bootstrap: 5
+
+development:
+  mode: auto
