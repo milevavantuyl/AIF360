@@ -2,5 +2,33 @@ url: https://milevavantuyl.github.io/AIF360/
 template:
   bootstrap: 5
 
+reference:
+- title: "AIF360 Setup"
+  contents:
+  - install_aif360
+  - load_aif360_lib
+
+- title: "Algorithms"
+- contents:
+  - adversarial_debiasing
+  - disparate_impact_remover
+  - prejudice_remover
+  - reject_option_classification
+  - reweighing
+
+- title: "Datasets"
+  contents:
+  - binary_label_dataset
+  - adult_dataset
+  - bank_dataset
+  - compas_dataset
+  - german_dataset
+  - law_school_gpa_dataset
+
+- title: "Metrics"
+  contents:
+  - binary_label_dataset_metric
+  - classification_metric
+
 development:
   mode: auto
