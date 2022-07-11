@@ -1,8 +1,9 @@
 pandoc: 2.17.1.1
 pkgdown: 2.0.4
 pkgdown_sha: ~
-articles: {}
-last_built: 2022-07-01T19:44Z
+articles:
+  aif360_intro: aif360_intro.html
+last_built: 2022-07-11T23:24Z
 urls:
   reference: https://milevavantuyl.github.io/AIF360/reference
   article: https://milevavantuyl.github.io/AIF360/articles
