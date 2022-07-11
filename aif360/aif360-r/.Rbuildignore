@@ -14,3 +14,6 @@
 ^docs$
 ^pkgdown$
 ^\.github$
+^doc$
+^Meta$
+vignettes
